@@ -4,7 +4,7 @@ This webapp helps anyone calcuate the profit or loss with the percentage, On the
 
 🔗Live Link🔗 [Stock: Profit or Loss App](https://stock-profit-or-loss-webapp.netlify.app/)
 
-> Note: This project was build by me from scratch. It is markFourteen project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markFourteen project for the admission process in neogcamp by Tanay Pratap, more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
